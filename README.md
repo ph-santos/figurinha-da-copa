@@ -4,7 +4,7 @@
 # Sobre o projeto
 
 ## Link do projeto: https://ph-santos.github.io/figurinha-da-copa/
-Esse projeto consiste em uma figuninha para copa do mundo que quando é clicada o fundo troca dinâmicamente.
+Esse projeto consiste em uma figurinha para copa do mundo que quando é clicada o fundo troca dinâmicamente.
 
 ## Layout mobile
 ![Mobile 1](https://github.com/ph-santos/figurinha-da-copa/blob/main/assets/images/img-phone.png)
