@@ -9,8 +9,6 @@ Esse projeto consiste em uma figuninha para copa do mundo que quando é clicada 
 ## Layout mobile
 ![Mobile 1](https://github.com/ph-santos/figurinha-da-copa/blob/main/assets/images/img-phone.png)
 
-![Mobile 2](https://github.com/ph-santos/figurinha-da-copa/blob/main/assets/images/img-pc-verde.png)
-
 
 ## Layout web
 ![Web 1](https://github.com/ph-santos/figurinha-da-copa/blob/main/assets/images/img-pc.png)
