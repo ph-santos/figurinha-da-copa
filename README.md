@@ -17,9 +17,9 @@ Esse projeto consiste em uma figurinha para copa do mundo que quando é clicada 
 ![Web 2](https://github.com/ph-santos/figurinha-da-copa/blob/main/assets/images/img-pc-verde.png)
 
 
+# Tecnologias utilizadas
 ## Front end
-- HTML / CSS 
-
+- HTML / CSS / JS / TypeScript
 
 # Autor
 
