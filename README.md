@@ -19,7 +19,7 @@ Esse projeto consiste em uma figurinha para copa do mundo que quando é clicada 
 
 # Tecnologias utilizadas
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS 
 
 # Autor
 
